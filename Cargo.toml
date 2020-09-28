@@ -1,0 +1,7 @@
+[package]
+name = "averager"
+version = "0.1.0"
+authors = ["RT Hatfield <arthur_hatfield@homedepot.com>"]
+
+[dependencies]
+csv = "1.1"
